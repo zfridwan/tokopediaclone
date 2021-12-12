@@ -161,10 +161,10 @@
       "name": "tokopediaclone",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.15"
     }
   ],
-  "generated": "2021-12-12T13:26:04.106972Z",
+  "generated": "2021-12-12T14:19:15.378234Z",
   "generator": "pub",
   "generatorVersion": "2.15.0"
 }
